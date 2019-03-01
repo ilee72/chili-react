@@ -1,0 +1,26 @@
+.ui.borderless.topmenu.menu {
+  border-radius: 0px;
+  margin: 12px;
+  background-color: white;
+  color: gray;
+  width: 85px;
+  height: 55px;
+  margin-left: 15px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.toptop.menu {
+  background-color: #ed1c24;
+  height: 1px;
+  margin-top: -35px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middle.menu {
+  background-color: #f8f5f2;
+  box-shadow: none;
+  border: none;
+  justify-content: center;
+}
